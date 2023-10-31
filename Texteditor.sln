@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Texteditor", "Texteditor\Texteditor.vcxproj", "{75098771-CB1D-4D00-BCB7-6A808FE466A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75098771-CB1D-4D00-BCB7-6A808FE466A2}.Debug|x64.ActiveCfg = Debug|x64
+		{75098771-CB1D-4D00-BCB7-6A808FE466A2}.Debug|x64.Build.0 = Debug|x64
+		{75098771-CB1D-4D00-BCB7-6A808FE466A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{75098771-CB1D-4D00-BCB7-6A808FE466A2}.Debug|x86.Build.0 = Debug|Win32
+		{75098771-CB1D-4D00-BCB7-6A808FE466A2}.Release|x64.ActiveCfg = Release|x64
+		{75098771-CB1D-4D00-BCB7-6A808FE466A2}.Release|x64.Build.0 = Release|x64
+		{75098771-CB1D-4D00-BCB7-6A808FE466A2}.Release|x86.ActiveCfg = Release|Win32
+		{75098771-CB1D-4D00-BCB7-6A808FE466A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A9FC66A-3193-4611-A72A-DEBDE3DFB0D2}
+	EndGlobalSection
+EndGlobal
